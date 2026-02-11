@@ -3,6 +3,9 @@
 
 The program is a cross-platform, statically linked binary with no external dependencies. It leverages streaming and concurrency to efficiently process large files offline.
 
+> 🌱 **Tired of Github?** This repository is available through Radicle. View it here: [rad:z3bTedCQLQRkCdAmKKZTMSBimNp4J](https://git.boers.email/nodes/seed.boers.email/rad:z3bTedCQLQRkCdAmKKZTMSBimNp4J)
+
+
 ### Installation
 
 Build the program from source:
